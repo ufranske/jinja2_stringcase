@@ -20,7 +20,6 @@ Jinja2 extension contains filters to convert case
 
 
 * Free software: MIT license
-* Documentation: https://jinja2-stringcase.readthedocs.io.
 
 
 Credits
