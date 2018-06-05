@@ -13,5 +13,4 @@ deploy:
   on:
     tags: true
     repo: ufranske/jinja2_stringcase
-    branch: master
     python: 2.7
